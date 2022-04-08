@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WINaplicacion</string>
+
+
+    <string name="btn_text_ingresar">Ingresar</string>
+    <string name="text_usuario">usuario</string>
+
+
+
+    <string name="text_password">password</string>
+    <string name="btn_text_volver">volver</string>
+    <string name="btn_text_leer_codigo">Leer codigo</string>
+    <string name="btn_text_ingresar_producto">registrar producto</string>
+
+
+    <string name="text_nombre_producto">Nombre Producto</string>
+    <string name="text_fecha_recepcion">Fecha Recepcion</string>
+    <string name="text_codigo_producto">Codigo Producto</string>
+    <string name="text_cantidad_producto">Cantidad Producto</string>
+    <string name="text_stock_min_producto">Stock Minimo Producto</string>
+    <string name="text_precio_uni_producto">precio Unitario Producto</string>
+    <string name="text_obs_producto">Observaciones Producto</string>
+    <string name="text_categoria_producto">Categoria Producto</string>
+
+</resources>
